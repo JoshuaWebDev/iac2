@@ -12,5 +12,5 @@ cd /tmp
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 apt-get install unzip -y
 unzip main.zip
-cd linux-site-dio
+cd linux-site-dio-main
 cp -R * /var/www/html/
